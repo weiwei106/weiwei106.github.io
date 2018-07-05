@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title></title>
+    <url>%2F2018%2F07%2F04%2Fpython%E5%9F%BA%E7%A1%80%2F</url>
+    <content type="text"><![CDATA[python基础1.数据类型整数（int），浮点（float），字符串（char），布尔型，空值（none），变量。 2.字符编码Unicode，ascll，utf-8。 3.使用list和tuplelist：有序列表，索引的时候list(-1)是元素最后一个。常用函数：len():计算长度list.append():添加到最后一个元素list.insert(index,’tom’):插入元素list.pop():删除末尾元素tuple：固定列表，不可修改 4.条件判断if &lt;条件判断1&gt;: &lt;执行1&gt; elif &lt;条件判断2&gt;: &lt;执行2&gt; elif &lt;条件判断3&gt;: &lt;执行3&gt; else: &lt;执行4&gt; 作业：bmi计算 5.循环range():生成整数序列break:跳出循环continue：跳出当前循环 6.dict和set的使用dict.get()：获取字典值dist.pop()：删除值set.add()：添加值set.remove()：删除元素set可以看成数学意义上的无序和无重复元素的集合，因此，两个set可以做数学意义上的交集、并集等操作]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo搭建博客]]></title>
+    <url>%2F2018%2F06%2F26%2Fhexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[hexo+github搭建个人博客指南我一直想做一个博客，感觉有个网页可以分享自己的东西，感觉很酷。因为需要给网站补充知识，就会逼迫自己去学习，不学习，就没有知识分享。搭建个人博客真的很简单1.前期准备 git安装 node.js安装 github账号注册 域名 git安装：git安装包，无脑下一步。node.js安装：官网下载，注意添加环境变量。github账号：这个就不用说了吧= =2.安装hexo$ npm install -g hexo-cli 3.建站安装 Hexo 完成后，请执行下列命令，Hexo 将会在指定文件夹中新建所需要的文件。$ hexo init &lt;folder&gt; $ cd &lt;folder&gt; $ npm install 注意_config.yml一个文件就行了，里面包含所有你需要改的信息。4.git配置ssh问度娘，以后更新。]]></content>
+  </entry>
+</search>
