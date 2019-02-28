@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[hexo发布文章]]></title>
+    <url>%2F2019%2F02%2F28%2Fhexo%E5%8F%91%E5%B8%83%E6%96%87%E7%AB%A0%2F</url>
+    <content type="text"><![CDATA[1.新建一篇文章 hexo new “hexo发布文章” 在博客目录下的/source/_posts/ 文件夹下，可以看到已经生成了标题为(在这里.md)的博客文件，只需要编辑这个.md文件即可。2.给文章添加分类和标签在（hexo发布文章.md）文件中设置tags和categories属性4.发布命令 hexo clean &amp;&amp; hexo g &amp;&amp; hexo d]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[hexo搭建博客]]></title>
     <url>%2F2018%2F06%2F26%2Fhexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%2F</url>
     <content type="text"><![CDATA[hexo+github搭建个人博客指南我一直想做一个博客，感觉有个网页可以分享自己的东西，感觉很酷。因为需要给网站补充知识，就会逼迫自己去学习，不学习，就没有知识分享。搭建个人博客真的很简单1.前期准备 git安装 node.js安装 github账号注册 域名 git安装：git安装包，无脑下一步。node.js安装：官网下载，注意添加环境变量。github账号：这个就不用说了吧= =2.安装hexo$ npm install -g hexo-cli 3.建站安装 Hexo 完成后，请执行下列命令，Hexo 将会在指定文件夹中新建所需要的文件。$ hexo init &lt;folder&gt; $ cd &lt;folder&gt; $ npm install 注意_config.yml一个文件就行了，里面包含所有你需要改的信息。4.git配置ssh问度娘，以后更新。]]></content>
