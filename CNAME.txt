@@ -1,2 +1,1 @@
-$ cat CNAME
-weiwei106.cf
+www.weiwei106.cf
